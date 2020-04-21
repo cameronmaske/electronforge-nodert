@@ -83,6 +83,7 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
+    "@nodert-win10-rs3/windows.devices.geolocation": "^0.4.4",
     "electron-squirrel-startup": "^1.0.0"
   }
 }
